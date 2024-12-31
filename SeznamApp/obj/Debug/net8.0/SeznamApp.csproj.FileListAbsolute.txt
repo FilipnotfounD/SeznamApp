@@ -1,0 +1,15 @@
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\bin\Debug\net8.0\SeznamApp.exe
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\bin\Debug\net8.0\SeznamApp.deps.json
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\bin\Debug\net8.0\SeznamApp.runtimeconfig.json
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\bin\Debug\net8.0\SeznamApp.dll
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\bin\Debug\net8.0\SeznamApp.pdb
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\obj\Debug\net8.0\SeznamApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\obj\Debug\net8.0\SeznamApp.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\obj\Debug\net8.0\SeznamApp.AssemblyInfo.cs
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\obj\Debug\net8.0\SeznamApp.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\obj\Debug\net8.0\SeznamApp.sourcelink.json
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\obj\Debug\net8.0\SeznamApp.dll
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\obj\Debug\net8.0\refint\SeznamApp.dll
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\obj\Debug\net8.0\SeznamApp.pdb
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\obj\Debug\net8.0\SeznamApp.genruntimeconfig.cache
+C:\Users\filip\source\repos\SeznamApp\SeznamApp\obj\Debug\net8.0\ref\SeznamApp.dll
